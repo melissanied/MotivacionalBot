@@ -1,0 +1,14 @@
+{
+  "name": "motivacional-bot",
+  "version": "1.0.0",
+  "description": "Bot para o Telegram",
+  "main": "index.js",
+  "dependencies": {
+    "telebot": "^1.4.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Melissa do Nascimento Nied",
+  "license": "MIT"
+}
